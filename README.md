@@ -240,4 +240,4 @@ This repository serves as the official landing page for BackRex Internet Explore
 **Get the most recent version of BackRex Internet Explorer Backup today!**
 
 ---
-**Last updated:** 2026-09-12 22:43:14 UTC
+**Last updated:** 2026-09-13 00:30:10 UTC
